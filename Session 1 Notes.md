@@ -8,7 +8,7 @@ Barkeep of the Foundation is Hariggan - crocodile-like creature
 
 Mari has defeated Bruce in a challenge of drink and lift
 
-Small Kulapi named Inspector Lovel, has interest in getting info about The Ouroboros
+Small Kulapi named Inspector Lovar, has interest in getting info about The Ouroboros
 Wants info about involvement of Little Yhorm with a local gang - the Tank Busters, wants to know if there are major plans for next while
 Tank Busters were a Sundering militia - now work as thugs for hire under a demolition company, Bruce is a member
 
@@ -16,4 +16,4 @@ Junkcrawler Alley - alley where scrap is stored before being processed, material
 
 Will start on the mission the next day
 
-[[Aggad Taril]] doesn't like dealing with the Guard - Lovel is a private investigator
+[[Aggad Taril]] doesn't like dealing with the Guard - Lovar is a private investigator
