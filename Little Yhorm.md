@@ -1,0 +1,1 @@
+Local leader of [[The Ouroboros]]

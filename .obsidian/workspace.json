@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b181cd04dc55885e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 1 Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 1 Notes.md",
+                "file": "Session 0 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 1 Notes.md",
+                "file": "Session 0 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 1 Notes.md"
+                "file": "Session 0 Notes.md"
               }
             }
           }
@@ -172,10 +160,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b181cd04dc55885e",
+  "active": "24b5fce3c81dfc09",
   "lastOpenFiles": [
+    "Garnum.md",
     "Session 0 Notes.md",
+    "Little Yhorm.md",
     "Session 1 Notes.md",
+    "Bruce.md",
+    "Junkcrawler Alley.md",
+    "Tankbuster.md",
+    "Inspector Lovar.md",
+    "The Ouroboros.md",
+    "Tankbuster Gang.md",
+    "Foundation Inn.md",
     "home.md",
     "netlify.toml",
     "Aggad Taril.md",
