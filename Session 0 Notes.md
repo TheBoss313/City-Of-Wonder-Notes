@@ -1,6 +1,6 @@
 # Characters
 Logash - Living off of spite, has worked with [[Aggad Taril]] for a while 
-
+	
 [[Aggad Taril]] - Old Homru Artificer, previous Dean of the Kalibeni Union
 
 Rovin - Gourmand that wants to eat everything in the world, has worked with Aggad in order to have the chance to visit lots of other places while getting paid
