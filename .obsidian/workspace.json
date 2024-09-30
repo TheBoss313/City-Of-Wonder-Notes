@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d5d0121483cd4335",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 3 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 2 Notes.md",
+                "file": "Session 3 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 2 Notes.md",
+                "file": "Session 3 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 2 Notes.md"
+                "file": "Session 3 Notes.md"
               }
             }
           },
@@ -181,11 +193,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf6b2aab1b7dafa2",
+  "active": "d5d0121483cd4335",
   "lastOpenFiles": [
+    "Session 2 Notes.md",
+    "Session 3 Notes.md",
     "Brick Block Building Company.md",
     "The Ouroboros.md",
-    "Session 2 Notes.md",
     "Hariggan.md",
     "Little Yhorm.md",
     "Tankbuster Gang.md",
