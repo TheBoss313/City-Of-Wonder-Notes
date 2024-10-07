@@ -12,7 +12,7 @@ Logash blows up robot
 Party goes down to The Gutter
 Go down a path to a hideout, which is owned & operated by [[The Ouroboros]] and the [[Tankbuster Gang]]. Hideout is nearby the docks
 Meet with "Deserter's Bane" - Meashea
-Learn that [[Little Yhorm]] and [[Broose]] are brothers
+Learn that [[Little Yhorm]] and [[Big Nhorm]] are brothers
 Heavy Fortifications
 Hear of a scientist named Nidris who works at the hideout
 Nidris - former prof at the Academia that had their research closed

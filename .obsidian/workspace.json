@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 2 Notes.md",
+                "file": "Session 0 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5447067b7f48843a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 4 Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 3 Notes.md",
+                "file": "Session 4 Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 3 Notes.md",
+                "file": "Session 4 Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 3 Notes.md"
+                "file": "Session 4 Note.md"
               }
             }
           },
@@ -193,10 +205,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5d0121483cd4335",
+  "active": "5447067b7f48843a",
   "lastOpenFiles": [
-    "Session 2 Notes.md",
+    "Big Nhorm.md",
     "Session 3 Notes.md",
+    "Session 4 Note.md",
+    "Session 0 Notes.md",
+    "Session 2 Notes.md",
     "Brick Block Building Company.md",
     "The Ouroboros.md",
     "Hariggan.md",
@@ -207,7 +222,6 @@
     "Session 1 Notes.md",
     "Skalton Ironworks.md",
     "Aggad Taril.md",
-    "Session 0 Notes.md",
     "home.md",
     "Garnum.md",
     "Junkcrawler Alley.md",
