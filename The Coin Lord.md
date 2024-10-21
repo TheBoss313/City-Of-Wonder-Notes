@@ -1,0 +1,1 @@
+One of the current big owner of the [[Aurum Dictum]]

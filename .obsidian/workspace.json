@@ -44,7 +44,43 @@
             }
           },
           {
-            "id": "d5d0121483cd4335",
+            "id": "af0ccb90f0f963fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 4 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28175f3bcd67aea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 5 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34d7f7518b196095",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Ouroboros.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edf45d164b24d982",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,21 +90,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5447067b7f48843a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 4 Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 4 Note.md",
+                "file": "The Ouroboros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 4 Note.md",
+                "file": "The Ouroboros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 4 Note.md"
+                "file": "The Ouroboros.md"
               }
             }
           },
@@ -186,13 +210,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,29 +227,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5447067b7f48843a",
+  "active": "34d7f7518b196095",
   "lastOpenFiles": [
-    "Big Nhorm.md",
-    "Session 3 Notes.md",
-    "Session 4 Note.md",
-    "Session 0 Notes.md",
-    "Session 2 Notes.md",
-    "Brick Block Building Company.md",
-    "The Ouroboros.md",
-    "Hariggan.md",
-    "Little Yhorm.md",
+    "The Doctor.md",
+    "The Coin Lord.md",
     "Tankbuster Gang.md",
-    "Broose.md",
-    "Foundation Inn.md",
-    "Session 1 Notes.md",
     "Skalton Ironworks.md",
-    "Aggad Taril.md",
-    "home.md",
-    "Garnum.md",
+    "Session 5 Notes.md",
+    "Session 4 Notes.md",
+    "Session 3 Notes.md",
+    "Session 2 Notes.md",
+    "Session 1 Notes.md",
+    "Session 0 Notes.md",
+    "Meashea.md",
+    "Little Yhorm.md",
     "Junkcrawler Alley.md",
-    "Tankbuster.md",
     "Inspector Lovar.md",
-    "netlify.toml",
-    "Welcome.md"
+    "home.md",
+    "Hariggan.md",
+    "Garnum.md",
+    "Foundation Inn.md",
+    "Commissioner Rogaan.md",
+    "Broose.md",
+    "Brick Block Building Company.md",
+    "Big Nhorm.md",
+    "Aurum Dictum.md",
+    "Aggad Taril.md",
+    "The Ouroboros.md",
+    "Tankbuster.md",
+    "netlify.toml"
   ]
 }

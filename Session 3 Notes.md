@@ -2,7 +2,7 @@ Flaming rock dude is named Borto
 Borto left for a job at some point, has beef (no pun intended) with Mari
 Party fucks up the conversation with Borto
 Diamondback is from a town near Berdan
-See a well dressed Homru, stands out among the dirt and grime with his golden looks - the Coin Lord - high ranking ember of Aurum Dictum - a big bank
+See a well dressed Homru, stands out among the dirt and grime with his golden looks - the Coin Lord - high ranking member of Aurum Dictum - a big bank
 Homru in a corner of the arena seating, bone armor, recognized by Logash 
 Coin Lord leaves when Diamondback is at an advantage
 Homewrecker proceeds to use magnetic enchantments to do bullshit with pulling things (including parts of the arena) towards himself

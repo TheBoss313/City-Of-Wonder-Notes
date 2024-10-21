@@ -1,2 +1,2 @@
-# Current employer: [[Aggad Taril]]
-# Current Quest: None
+# Current employer: [[Inspector Lovar]]
+# Current Quest: Waiting
