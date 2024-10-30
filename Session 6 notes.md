@@ -1,0 +1,34 @@
+- Logash left to collect information
+- Convoy seen coming from [[Golbori Prison]] heading to council hall
+- [[Aggad Taril]] has personal investment with the trial as begin once a dean, overheard by Rovin while cooking in the morning
+- Before trial the party removed any magic items and carried only one weapon on them, magic focus' were allowed and [[Aggad Taril]] had his bag of holding registered before hand
+- Another dragon was seen flying overhead and land at the courthouse
+- With [[Aggad Taril]] the party was seated at the top level
+  - [[The Coin Lord]] was sitting with a Shoma woman
+  - (Skultan??) a dragon shapeshifted as a Homru is present
+- An opaque crystalline prism is rolled into the courtroom
+- 6 figures coming the sides head to the podium
+  - 5 head to the wings either end with one being a full blown dragon
+  - Final person heads to the middle (the judge) Supreme Judge (Leyad??)
+- The prism becomes clear and reveals an 8 ft Domoga woman chained to the floor (warlord)
+  - Charged with war crimes: execution of several settlements, 5 dragons, enslavement of fey, and destroying sacred graveyards
+    - Being tried for these crimes and will later be tried in the Empire
+  - Led a personal campaign across the Empire as a warlord
+- The trial lasts for 2 hours and then the prisoner testifies and has a speech about how she did commit every crime listed and shows no remorse citing it was her right to take since she had the strength and power to
+- The several bombs explode out across the courthouse and the warlord crushes a man's skull with her hand and kinetically throat punches a dragon and drops down a deep hole revealed in the explosion
+  - A tattoo sprawls across her back showing a hand with 5 fingers, each being a different dragon she killed
+  - Another fact is she gets stronger the longer a fight goes on for collecting more energy and at some point just overpowering her opponent
+- As the party escapes the courthouse it is revealed their were several more bombings across the city mostly in the south the government ward
+  - (Orick??) Museum was also stolen from and [[Inspector Lovar]] went to investigate what was stolen 
+- The party heads back to [[Aggad Taril]Aggad's] place to get their gear and Rovin, Norm and Varona encounter the Inspector holding the box and comments "my employer has been looking for this'
+  - With a judgement check from Varona it is revealed the Inspector is actually The Token Collector
+    - Varona also discovers while attempting to feel the emotion of the Token Collector 'it' is an empty void, possibly a way to check if someone's face has been taken by the collector
+  - The Token Collector then disappears by stepping back into the shadows after Norm takes a glass of water and chucks at 'it' and its true form is revealed as a Shoma with a blank mirror-like mask and a hood
+  - [[Inspector Lovar]] died at the Museum
+- Party heads toward back to the courthouse after collecting gear to inform [[Commissioner Rogaan]] that [[Inspector Lovar]] is died and the Token Collector has his face
+  - Varona gets a new commlink with [[Commissioner Rogaan]] and has a passphrase to ensure the people who they say they are: Honey Mead
+    - Based off the Honey-Mead pastries Rovin made
+- Party then either flies down and is lowered down the hole which leads into the gutter
+  - The hole appears to have been present months before and the explosion only revealed the opening
+
+
