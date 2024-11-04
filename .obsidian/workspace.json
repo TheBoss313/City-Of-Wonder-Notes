@@ -16,7 +16,9 @@
                 "file": "Aggad Taril.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Aggad Taril"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Foundation Inn.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Foundation Inn"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Session 0 Notes.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Session 0 Notes"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "Session 4 Notes.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Session 4 Notes"
             }
           },
           {
@@ -64,7 +72,9 @@
                 "file": "Session 5 Notes.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Session 5 Notes"
             }
           },
           {
@@ -76,7 +86,9 @@
                 "file": "The Ouroboros.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "The Ouroboros"
             }
           },
           {
@@ -88,7 +100,9 @@
                 "file": "Session 3 Notes.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Session 3 Notes"
             }
           }
         ],
@@ -112,7 +126,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -127,7 +143,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -135,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -166,7 +186,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Ouroboros"
             }
           },
           {
@@ -178,7 +200,9 @@
                 "file": "The Ouroboros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Ouroboros"
             }
           },
           {
@@ -189,7 +213,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -199,7 +225,9 @@
               "type": "outline",
               "state": {
                 "file": "The Ouroboros.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Ouroboros"
             }
           },
           {
@@ -207,7 +235,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
