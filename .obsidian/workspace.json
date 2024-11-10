@@ -8,105 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f56163fd9b6761d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aggad Taril.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aggad Taril"
-            }
-          },
-          {
-            "id": "8950895b8a124aaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Foundation Inn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Foundation Inn"
-            }
-          },
-          {
-            "id": "cf6b2aab1b7dafa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 0 Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 0 Notes"
-            }
-          },
-          {
-            "id": "af0ccb90f0f963fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 4 Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 4 Notes"
-            }
-          },
-          {
-            "id": "28175f3bcd67aea0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 5 Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 5 Notes"
-            }
-          },
-          {
             "id": "34d7f7518b196095",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Ouroboros.md",
+                "file": "Session 6 Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Ouroboros"
+              "title": "Session 6 Notes"
             }
           },
           {
-            "id": "edf45d164b24d982",
+            "id": "51b5c94110a9ab88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 3 Notes.md",
+                "file": "Section 7 Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 3 Notes"
+              "title": "Section 7 Notes"
+            }
+          },
+          {
+            "id": "4f23e0e06e82717c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Big Nhorm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Big Nhorm"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Ouroboros.md",
+                "file": "Section 7 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Ouroboros"
+              "title": "Backlinks for Section 7 Notes"
             }
           },
           {
@@ -197,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Ouroboros.md",
+                "file": "Section 7 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Ouroboros"
+              "title": "Outgoing links from Section 7 Notes"
             }
           },
           {
@@ -224,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Ouroboros.md"
+                "file": "Section 7 Notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of The Ouroboros"
+              "title": "Outline of Section 7 Notes"
             }
           },
           {
@@ -244,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,18 +202,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34d7f7518b196095",
+  "active": "51b5c94110a9ab88",
   "lastOpenFiles": [
+    "Big Nhorm.md",
+    "Section 7 Notes.md",
+    "Session 3 Notes.md",
+    "Session 0 Notes.md",
+    "Session 6 Notes.md",
+    "Session 4 Notes.md",
+    "Golbori Prison.md",
+    "Session 5 Notes.md",
+    "The Ouroboros.md",
     "The Doctor.md",
     "The Coin Lord.md",
     "Tankbuster Gang.md",
     "Skalton Ironworks.md",
-    "Session 5 Notes.md",
-    "Session 4 Notes.md",
-    "Session 3 Notes.md",
     "Session 2 Notes.md",
     "Session 1 Notes.md",
-    "Session 0 Notes.md",
     "Meashea.md",
     "Little Yhorm.md",
     "Junkcrawler Alley.md",
@@ -280,11 +230,6 @@
     "Commissioner Rogaan.md",
     "Broose.md",
     "Brick Block Building Company.md",
-    "Big Nhorm.md",
-    "Aurum Dictum.md",
-    "Aggad Taril.md",
-    "The Ouroboros.md",
-    "Tankbuster.md",
     "netlify.toml"
   ]
 }

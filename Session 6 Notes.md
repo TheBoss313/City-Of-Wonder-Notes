@@ -20,7 +20,7 @@
   - Another fact is she gets stronger the longer a fight goes on for collecting more energy and at some point just overpowering her opponent
 - As the party escapes the courthouse it is revealed their were several more bombings across the city mostly in the south the government ward
   - (Orick??) Museum was also stolen from and [[Inspector Lovar]] went to investigate what was stolen 
-- The party heads back to [[Aggad Taril]Aggad's] place to get their gear and Rovin, Norm and Varona encounter the Inspector holding the box and comments "my employer has been looking for this'
+	- The party heads back to [[Aggad Taril|Aggad's]] place to get their gear and Rovin, Norm and Varona encounter the Inspector holding the box and comments "my employer has been looking for this'
   - With a judgement check from Varona it is revealed the Inspector is actually The Token Collector
     - Varona also discovers while attempting to feel the emotion of the Token Collector 'it' is an empty void, possibly a way to check if someone's face has been taken by the collector
   - The Token Collector then disappears by stepping back into the shadows after Norm takes a glass of water and chucks at 'it' and its true form is revealed as a Shoma with a blank mirror-like mask and a hood
@@ -30,5 +30,3 @@
     - Based off the Honey-Mead pastries Rovin made
 - Party then either flies down and is lowered down the hole which leads into the gutter
   - The hole appears to have been present months before and the explosion only revealed the opening
-
-
